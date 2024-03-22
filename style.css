@@ -1,0 +1,78 @@
+/* Links - Global */
+a {
+  color: #6eaaaa !important;
+}
+
+/* Header */
+header h1.wp-block-site-title {
+  text-align: center;
+  background-image: url("https://devjashele.files.wordpress.com/2024/03/wplogojt.png");
+  background-repeat: no-repeat;
+  width: 84px;
+  height: 73px;
+  margin-top: -38px !important;
+}
+header h1.wp-block-site-title a {
+  display: none;
+}
+header div.wp-elements-6168ec0dc787a297453884a052a8bf6d {
+  background-color: #6eaaaa !important;
+  padding-bottom: 27px !important;
+}
+
+/* Header Nav */
+header nav div#modal-1-content {
+  background-color: #ffffff;
+  padding: 7px;
+  margin-bottom: 20px;
+}
+
+/* Search Form */
+form.wp-block-search {
+  margin: -98px;
+}
+form label.wp-block-search__label {
+  display: none !important;
+}
+form input.wp-block-search__input,
+form button.wp-block-search__button {
+  border-radius: 0 !important;
+}
+form button.wp-block-search__button {
+  background-color: #c85000 !important;
+}
+
+/* Main Content Posts */
+main {
+  text-align: center;
+  padding-bottom: 40px;
+  margin-top: -.01px;
+}
+main a {
+  font-size: .7em;
+}
+main ul {
+  align-items: center;
+  justify-content: center;
+}
+main ul li {
+  width: 30% !important;
+}
+main ul li div figure img {
+  border-radius: 10px;
+}
+main ul li div h2 {
+  margin-top: 14px;
+}
+li[class*="post-31"] {
+  display: none;
+}
+li[class*="post-33"] {
+  display: none;
+}
+
+/* Footer */
+footer p.wp-block-site-title a {
+  color: #cb7f03 !important;
+  font-style: normal;
+}
