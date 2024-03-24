@@ -6,7 +6,7 @@ Can you provide us with CSS code required to match its look with this mockup
 */
 
 /* Link Styling - Global */
-a {
+html a {
   color: #6eaaaa !important;
 }
 
