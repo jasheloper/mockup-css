@@ -79,10 +79,10 @@ main ul li[class*="post-33"] {
 }
 
 /* Footer */
+footer div {
+  padding-bottom: 0 !important;
+}
 footer p.wp-block-site-title a {
   color: #cb7f03 !important;
   font-style: normal;
-}
-footer div {
-  padding-bottom: 0 !important;
 }
