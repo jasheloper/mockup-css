@@ -17,7 +17,7 @@ header h1.wp-block-site-title {
   background-repeat: no-repeat;
   width: 84px;
   height: 73px;
-  margin-top: -38px !important;
+  margin-top: -35px !important;
 }
 header h1.wp-block-site-title a {
   display: none;
@@ -56,7 +56,7 @@ main {
   margin-top: -.01px;
 }
 main a {
-  font-size: .7em;
+  font-size: .8em;
 }
 main ul {
   align-items: center;
@@ -71,10 +71,10 @@ main ul li div figure img {
 main ul li div h2 {
   margin-top: 14px;
 }
-li[class*="post-31"] {
+main ul li[class*="post-31"] {
   display: none;
 }
-li[class*="post-33"] {
+main ul li[class*="post-33"] {
   display: none;
 }
 
@@ -82,4 +82,7 @@ li[class*="post-33"] {
 footer p.wp-block-site-title a {
   color: #cb7f03 !important;
   font-style: normal;
+}
+footer div {
+  padding-bottom: 0 !important;
 }
